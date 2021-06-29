@@ -9,7 +9,7 @@
                 <div class="card-body">
                     <div class="row">
                         <div class="col-md-12">
-                            <a class="btn btn-primary m-4 " href="/empleados">Empleados registrados </a>
+                            <a class="btn btn-primary m-4 " href="/empleados">Empleados registrados</a>
                         </div>
                     </div>
                 </div>
